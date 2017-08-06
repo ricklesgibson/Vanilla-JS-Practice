@@ -1,0 +1,1 @@
+JavaScript Practice Project from JavaScript30 - [https://JavaScript30.com](https://JavaScript30.com)
